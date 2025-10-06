@@ -1,6 +1,6 @@
 Statistics course final project:  @100325
 
-Use the 1005_finalproj for most current version --- for the equations & answers 
+Use the 1005_finproj_d4    for most current version --- for the equations & answers 
 
 
 includes:
